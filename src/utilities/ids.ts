@@ -30,6 +30,7 @@ export const ComponentIDs = {
   signUpFormEmail: 'signUpFormEmail',
   signUpFormPassword: 'signUpFormPassword',
   signUpFormSubmit: 'signUpFormSubmit',
+  lucky: 'lucky',
 };
 
 export const PageIDs = {
